@@ -7,7 +7,6 @@ An interactive R Shiny dashboard that visualizes 2021–2022 Premier League team
 ## 📊 Features
 - Team-wise comparison of wins, draws, and losses
 - Goals scored vs. goals conceded
-- Player-level performance statistics
 - Clean and responsive Shiny dashboard
 
 ## 🚀 Live App
